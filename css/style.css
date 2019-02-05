@@ -2237,7 +2237,7 @@ html.w-mod-js *[data-ix="title-scale-2"] {
     min-width: 250px;
   }
   .foter-1 {
-    width: 100vw;
+    /* width: 100vw; */
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
