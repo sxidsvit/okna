@@ -2069,8 +2069,8 @@ html.w-mod-js *[data-ix="title-scale-2"] {
     height: 70px;
   }
   .process-section {
-    height: 80vh;
-    padding-bottom: 0rem;
+    /* height: 80vh; */
+    /* padding-bottom: 0rem; */
     clear: right;
   }
   .process-item {
