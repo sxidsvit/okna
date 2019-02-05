@@ -2069,12 +2069,10 @@ html.w-mod-js *[data-ix="title-scale-2"] {
     height: 70px;
   }
   .process-section {
-    /* height: 80vh; */
-    /* padding-bottom: 0rem; */
-    clear: right;
-  }
+  clear: right;
+  }     
   .process-item {
-    min-height: 150px;
+    min-height: 150px;    
     margin-bottom: 0rem;
     -webkit-flex-basis: 33%;
     -ms-flex-preferred-size: 33%;
